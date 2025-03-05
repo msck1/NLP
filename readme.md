@@ -4,12 +4,12 @@ Decidi usar como input três textos gerados por IA, o primeiro simula um review 
 
 ## Primeiro Texto:
 
-![PrimeiroTexto](img\printreview1.png "Primeiro Texto")
+![PrimeiroTexto](./img/printreview1.png "Primeiro Texto")
 
 ## Segundo Texto:
 
-![SegundoTexto](img\printreview2.png "Segundo Texto")
+![SegundoTexto](./img/printreview2.png "Segundo Texto")
 
 ## Terceiro Texto:
 
-![TerceiroTexto](img\printreview3.png "Terceiro Texto")
+![TerceiroTexto](./img/printreview3.png "Terceiro Texto")
